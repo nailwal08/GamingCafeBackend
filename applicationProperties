@@ -1,0 +1,10 @@
+spring.application.name=gamingCafe
+logging.level.org.springframework.web=DEBUG
+logging.level.com.example.gamingCafe=DEBUG
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+authority.admin=admin
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
